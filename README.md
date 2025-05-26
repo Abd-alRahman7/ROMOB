@@ -3,33 +3,23 @@ Welcome to the IoT Enabled Agricultural Car page. This repository houses the sou
 
 
 <p align="center">
-  <img src="Pictures\Porject.jpeg" alt="Image" width="360"/>
+  <img src="" alt="Image" width="360"/>
 </p>
 
-
-# Table of Contents
-- <span style="color:blue">[Requirements](#requirements)</span>
-- <span style="color:blue">[Hardware Setup](#hardware-setup)</span>
-- <span style="color:blue">[Software Setup](#software-setup)</span>
-- <span style="color:blue">[Explaination of Codes and Scripts](#Explaination-of-Code-and-Scripts)</span>
-- <span style="color:blue">[Other](#Other)</span>
-# Requirements
+# Components
 - PIC16F877A microcontroller
 - Ultrasonic Distance Sensor
-- PH Sensor
-- Soil Moisture Sensor
-- Temperature Sensor
-- LEDs
-- 4 DC Motors
 - Servo Motor
+- 2 DC Motors
+- Temperature Sensor
+- Fan
 - Motor Driver (H-Bridge)
-- Bluetooth HC-06
 - CRYSTAL Oscillator (8 MHz)
-- 12V Battery
-- 5V Battery
+- 3 lithium-ion Battaries
+-  
 
 # Hardware Setup
-![Hardware Setup](Pictures/Schematic.jpg)
+![Hardware Setup]()
 
 
 # Software Setup
