@@ -1,5 +1,5 @@
 # ROMOB
-Welcome to the ROMOB page. This repository houses the source code and documentation for our project. The car is owered by the PIC16F877A microcontroller. 
+Welcome to the ROMOB page. This repository houses the source code and documentation for our project. The car is powered by the PIC16F877A microcontroller. 
 
 
 # Components
